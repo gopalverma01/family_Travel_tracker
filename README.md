@@ -81,5 +81,5 @@ Visit: http://localhost:3000
 👨‍💻 Author
 Gopal Verma
 Passionate Full Stack Developer • PostgreSQL enthusiast • Web lover
-📧 gopal@example.com | LinkedIn | GitHub
+
 
